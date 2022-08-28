@@ -1,8 +1,6 @@
 # kirkshields-unit0
 Unit 0 homework for mobile app projects at FAU
-# Pre-work - *Name of App Here*
-
-**Name of your app** is a tip calculator application for iOS.
+# Pre-work - tip calculator application for iOS.
 
 Submitted by: Kirk Shields
 
